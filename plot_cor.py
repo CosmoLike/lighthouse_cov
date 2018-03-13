@@ -9,7 +9,7 @@ import numpy as np
 
 
 
-covfile = './cov_des_y1_i3_unblind_final_v0/COV2_Y1_i3_Ntheta20_Nsource4_Nlens5'
+covfile = './cov_Y1/COV_Y1_mcal_Ntheta20_Nsource4_Nlens5_revision'
 
 nsource = 4
 nshear = nsource*(nsource+1)/2
