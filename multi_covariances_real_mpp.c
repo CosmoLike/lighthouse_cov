@@ -31,7 +31,6 @@
 #include "../cosmolike_core/theory/HOD.c"
 #include "../cosmolike_core/theory/cosmo2D_fourier.c"
 #include "../cosmolike_core/theory/IA.c"
-#include "../cosmolike_core/theory/cluster.c"
 #include "../cosmolike_core/theory/BAO.c"
 #include "../cosmolike_core/theory/external_prior.c"
 #include "../cosmolike_core/theory/covariances_3D.c"
