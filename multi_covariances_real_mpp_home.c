@@ -48,6 +48,11 @@ int main(int argc, char** argv)
   double ktmp;
   char OUTFILE[400],filename[400];
 
+  printf("-----------------\n");
+  printf("This is not production mode covariance code\n");
+  printf("Please only use with care and at your own risk\n");
+  printf("-----------------\n");
+  
   Ntable.N_a=20;
   set_cov_parameters_to_("cov_Y1/cov_y1_mcal_revision.ini",1);
   //here: setting values internally
